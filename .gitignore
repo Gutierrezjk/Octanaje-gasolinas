@@ -1,7 +1,0 @@
-data/
-*.csv
-*.spc
-*.pkl
-mlruns/
-__pycache__/
-.ipynb_checkpoints/
